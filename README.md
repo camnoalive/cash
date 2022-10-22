@@ -12,3 +12,9 @@ Usage:
    
   Linux:
     Download the main.py file and navigate to the directory the file was downloaded to. Then open your terminal and run the python file like so `python cash.py`
+
+Features possibly coming in V1.1:
+
+Different font colors
+Automatically adding Cash$ to windows path
+Access to all windows and linux commands
