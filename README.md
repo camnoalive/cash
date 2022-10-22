@@ -5,6 +5,7 @@ Cash is currently in development so some things might not work.
 
 
 Usage:
+  
   Windows:
     Download the cash.exe file and place it in desired location.
     Run the exe
