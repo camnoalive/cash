@@ -15,6 +15,10 @@ Usage:
 
 Features possibly coming in V1.1:
 
-Different font colors
-Automatically adding Cash$ to windows path
-Access to all windows and linux commands
+1. Different font colors
+
+2. Automatically adding Cash$ to windows path
+
+3. Access to all windows and linux commands
+
+4. More custom and Cash$ specific commands
