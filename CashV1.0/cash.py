@@ -2,6 +2,8 @@ import os
 import subprocess 
 os.system('cls')
 
+
+
 while True:
     wd = subprocess.check_output("echo %cd%", shell=True);
     command = input(f"{wd} cash$> ")
