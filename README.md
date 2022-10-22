@@ -1,4 +1,4 @@
-# cash$ (Cams Shell)
+# cash$ (Cams Shell) Created 10/22/2022
 Cash$ is a simple esoteric console app revamping windows cmd or bash. Cash is currently in development so lots of things wont work.
 
 As of now CashCore (V1) is only available
