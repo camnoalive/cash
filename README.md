@@ -9,3 +9,6 @@ only version of Cash$ that is open source.
 Cash$ V2 will include many developer specific tools, and maybe some things the community wants me to add.
 
 Cash$ V2 is now out!! This is just a pre-release, with a few easter eggs, based on CashCore (V1.1)
+
+Download V2 here:
+https://github.com/cmarshalldev/cash/releases/tag/V2.0
